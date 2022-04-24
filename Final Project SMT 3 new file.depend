@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639191132 source:c:\coding\final project smt 3 new file\main.cpp
+	<iostream>
+	<stack>
+	<windows.h>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<windowsx.h>
+
